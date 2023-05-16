@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/byta/byta.iml" filepath="$PROJECT_DIR$/byta/byta.iml" />
+      <module fileurl="file://$PROJECT_DIR$/byta/android/byta_android.iml" filepath="$PROJECT_DIR$/byta/android/byta_android.iml" />
     </modules>
   </component>
 </project>
