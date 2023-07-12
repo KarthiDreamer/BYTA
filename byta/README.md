@@ -1,6 +1,6 @@
 # byta
 
-A new Flutter project.
+A financial application
 
 ## Getting Started
 
